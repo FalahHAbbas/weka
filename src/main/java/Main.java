@@ -19,7 +19,11 @@ public class Main {
         System.out.println(tree.graph());
 
 //        checkkk();
+        long s=System.currentTimeMillis();
         check();
+        long e=System.currentTimeMillis();
+
+        System.out.println(e-s);
     }
 
 //    private static void checkkk() throws Exception {

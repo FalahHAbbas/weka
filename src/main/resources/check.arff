@@ -7,4 +7,4 @@
 @attribute histology {clearRCC, chromophobeRCC, collectingRCC,papillaryRCC,lymphoma,wilms,AML}
 
 @data
-26,143,84,80,?
+35,147,104,83,?
