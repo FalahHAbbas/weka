@@ -1,0 +1,59 @@
+@relation results
+
+@attribute Native real
+@attribute CMP real
+@attribute NGP real
+@attribute EP real
+@attribute histology {clearRCC, chromophobeRCC, collectingRCC,papillaryRCC,tubocysticRCC,lymphoma,wilms,AML}
+
+@data
+26,143,84,80,clearRCC
+25,113,80,74,clearRCC
+35,143,104,81,clearRCC
+29,128,126,120,clearRCC
+37,104,83,58,clearRCC
+21,76,62,55,clearRCC
+38,49,43,47,clearRCC
+34,208,107,84,clearRCC
+38,84,56,52,clearRCC
+40,95,59,53,clearRCC
+28,51,60,46,clearRCC
+30,183,80,65,clearRCC
+30,136,120,93,clearRCC
+35,147,104,83,clearRCC
+28,69,57,52,clearRCC
+33,98,71,70,clearRCC
+41,93,76,56,clearRCC
+37,134,76,64,clearRCC
+28,120,89,67,clearRCC
+40,55,60,47,clearRCC
+34,164,103,83,clearRCC
+30,117,85,71,clearRCC
+14,105,135,137,clearRCC
+34,57,53,38,clearRCC
+40,130,97,70,clearRCC
+31,93,54,49,clearRCC
+47,85,80,72,clearRCC
+38,54,46,40,clearRCC
+88,186,125,115,clearRCC
+32,38,67,45,papillaryRCC
+24,35,63,41,papillaryRCC
+30,72,82,70,papillaryRCC
+33,55,75,73,papillaryRCC
+39,129,121,91,chromophobeRCC
+35,114,90,73,chromophobeRCC
+42,128,84,82,tubocysticRCC
+33,53,60,56,collectingRCC
+25,44,42,41,papillaryRCC
+37,75,65,58,lymphoma
+34,50,65,60,wilms
+41,63,76,78,wilms
+37,52,50,49,wilms
+30,105,86,70,clearRCC
+25,57,55,50,clearRCC
+35,86,80,71,AML
+31,148,210,170,AML
+38,54,46,40,clearRCC
+30,98,73,65,clearRCC
+32,128,100,73,clearRCC
+36,165,98,76,clearRCC

@@ -1,0 +1,10 @@
+@relation results
+
+@attribute Native real
+@attribute CMP real
+@attribute NGP real
+@attribute EP real
+@attribute histology {clearRCC, chromophobeRCC, collectingRCC,papillaryRCC,lymphoma,wilms,AML}
+
+@data
+26,143,84,80,?
